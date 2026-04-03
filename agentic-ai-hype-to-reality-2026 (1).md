@@ -2,15 +2,9 @@
 
 > *Everyone's calling everything "agentic" now. Let's cut through the noise and talk about what's actually happening.*
 
-**By [Your Name]** · April 1, 2026 · ☕ 6 min read
-
 **Tags:** `Artificial Intelligence` `Agentic AI` `2026 Tech Trends` `Future of Work` `AI Agents` `Machine Learning` `India Tech`
 
----
-
 > 📌 **Quick Summary:** Agentic AI is real, it's here, and it's reshaping how work gets done. But it's also massively overhyped. In this post, I break down 10 honest, no-fluff things you need to know — from what agents actually are, to why India is perfectly positioned to lead this wave.
-
----
 
 Okay, real talk. I've been watching the "Agentic AI" hype train for the past year, and honestly? It's a mix of genuinely exciting stuff and complete nonsense dressed up in buzzwords.
 
@@ -204,24 +198,3 @@ The hype cycle will calm down.
 
 *Got a question or a different take? Drop it in the comments below — I read every single one. 💬*
 
----
-
-### 🔗 SEO Tags
-`#AgenticAI` `#ArtificialIntelligence` `#AIAgents` `#2026TechTrends` `#FutureOfWork` `#MachineLearning` `#Claude` `#MCP` `#IndiaTech` `#AIStartup` `#AnthropicAI` `#LLM` `#GenerativeAI`
-
----
-
-### 📸 Recommended Images (free on Unsplash)
-Search these terms for your section images:
-- **Hero image** → "AI network digital blue abstract"
-- **Section 3** → "workflow automation business team collaboration"
-- **Section 7** → "human AI collaboration office future"
-- **Section 9** → "India developer technology startup"
-
-### 📋 Medium Publishing Checklist
-- [ ] Add your author name and bio
-- [ ] Upload a custom hero cover image (1400×840px recommended)
-- [ ] Submit to **"Towards Data Science"** or **"The Startup"** publication
-- [ ] Add canonical URL if cross-posting to your personal blog
-- [ ] Schedule post for **Tuesday or Wednesday, 9–11am IST** for best reach
-- [ ] Share on LinkedIn immediately after publishing
